@@ -21,7 +21,7 @@ Googletest is one of the best unit-testing frameworks for C++.   This include pr
 EXPECT_FLOAT_NEAR(var1, var2);
 ```
 
-This will compare the absolute difference of (var1-var2) with var1, and only if the difference is 10,000 times smaller than var1, will the expect pass.  Also, the error message truncates var1 and var2 to several decimal places, rather than displaying it as around 15 or so.
+This will compare the absolute difference of (var1-var2) with var1, and only if the difference is 10,000 times smaller than var1, will the expect pass.  The error message truncates var1 and var2 to several decimal places, rather than displaying it as around 15 or so.
 
 cpp-batteries/Timer.h
 ---------------------
