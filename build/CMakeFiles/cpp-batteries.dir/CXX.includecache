@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././cpp-batteries/StringHelper.h
+vector
+-
+string
+-
+sstream
+-
+iostream
+-
+cstdlib
+-
+
+/home/user/git/cpp-batteries/cpp-batteries/StringHelper.cpp
+string
+-
+vector
+-
+sstream
+-
+cpp-batteries/StringHelper.h
+/home/user/git/cpp-batteries/cpp-batteries/cpp-batteries/StringHelper.h
+

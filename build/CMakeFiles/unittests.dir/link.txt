@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/unittests.dir/test/testStringHelper.cpp.o CMakeFiles/unittests.dir/cpp-batteries/StringHelper.cpp.o CMakeFiles/unittests.dir/thirdparty/gtest/gtest_main.cc.o  -o unittests -rdynamic libcpp-batteries.so libgtest.so -lpthread -Wl,-rpath,/home/user/git/cpp-batteries/build 

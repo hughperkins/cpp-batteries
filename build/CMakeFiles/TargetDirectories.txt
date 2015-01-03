@@ -1,0 +1,3 @@
+/home/user/git/cpp-batteries/build/CMakeFiles/cpp-batteries.dir
+/home/user/git/cpp-batteries/build/CMakeFiles/gtest.dir
+/home/user/git/cpp-batteries/build/CMakeFiles/unittests.dir
